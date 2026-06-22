@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Vale;Breno;;;
+FN:Breno Vale
+ORG:ABRINT
+TITLE:Diretor Presidente
+EMAIL;TYPE=WORK,INTERNET:presidente@abrint.com.br
+TEL;TYPE=CELL,VOICE:+5561982770898
+URL;TYPE=WORK:https://www.abrint.com.br
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/breno-vale/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/breno-vale/
+END:VCARD
